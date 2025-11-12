@@ -1,3 +1,11 @@
+
+The app below consist of the code below created on snack devs. Key elements was added , such as the images , the layout and the scroll options , changes that was made was the option to tap on certain dishes and be directed to the main menu to find the prices and the image of the dish, another change was the menu button which directs you to the menu for the entire resturant. Added a back to home feature button as well, with contactdetails on the main page and a warm welcome message.
+
+
+
+
+
+
 import React, { useState } from 'react';
 import {
   StyleSheet,
